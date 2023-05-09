@@ -31,6 +31,8 @@ Azure Cloud Platform
 3. Azure data Factory
 4. PowerBI
 
+Here is the Metadata used in the Project - https://github.com/saksham-mishra24/Revenue-Insights_Azure-data-Factory/tree/main/Metadata
+
 
 Here is the dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
 
