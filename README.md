@@ -20,13 +20,6 @@ The task involves implementing an end-to-end data processing workflow for hospit
 
 Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders
-
-# 📊 Archieture
-
-# Data Model
-
-![image](https://github.com/saksham-mishra24/Revenue-Insights_Azure-data-Factory/assets/120908587/f2381075-420a-4239-866f-4a667ef8c939)
-
 ## Technology Used
 
 Azure Cloud Platform
@@ -37,6 +30,14 @@ Azure Cloud Platform
 
 Here is the Metadata used in the Project - https://github.com/saksham-mishra24/Revenue-Insights_Azure-data-Factory/tree/main/Metadata
 
-
 Here is the dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
+
+# 📊 Archieture
+
+# Data Model
+
+![image](https://github.com/saksham-mishra24/Revenue-Insights_Azure-data-Factory/assets/120908587/f2381075-420a-4239-866f-4a667ef8c939)
+
+# 📊 DashBoard 
+![image](https://github.com/saksham-mishra24/Revenue-Insights_Azure-data-Factory/assets/120908587/77fc01cd-f2d6-428b-ad99-c8c102166d6d)
 
