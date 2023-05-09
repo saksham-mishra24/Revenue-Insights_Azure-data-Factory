@@ -23,6 +23,10 @@ Create a dashboard according to the mock-up provided by stakeholders
 
 # 📊 Archieture
 
+# Data Model
+
+![image](https://github.com/saksham-mishra24/Revenue-Insights_Azure-data-Factory/assets/120908587/f2381075-420a-4239-866f-4a667ef8c939)
+
 ## Technology Used
 
 Azure Cloud Platform
