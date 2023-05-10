@@ -30,9 +30,11 @@ Azure Cloud Platform
 
 Here is the Metadata used in the Project - https://github.com/saksham-mishra24/Revenue-Insights_Azure-data-Factory/tree/main/Metadata
 
-Here is the dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
+Here is the dataset used in the video - https://github.com/saksham-mishra24/Revenue-Insights_Azure-data-Factory/tree/main/RawData
 
 # 📊 Archieture
+
+![image](https://github.com/saksham-mishra24/Revenue-Insights_Azure-data-Factory/assets/120908587/7a7df8f1-00f0-4e44-ba7f-279c1583fc4e)
 
 # Data Model
 
