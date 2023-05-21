@@ -4,15 +4,16 @@
 
 This project demonstrates the end-to-end data processing and visualization pipeline for hospitality data using Azure Data Factory (ADF). The pipeline includes data ingestion, data transformation using ADF Data Flow, and data visualization in Power BI.
 
-# 📚 Goal
-
-The goal of this project is to perform data analytics on data to incorporate “Business and Data Intelligence” to regain the market share and revenue using various tools and technologies, including Azure Blob Storage, Azure data lake Gen2,  Azure Data Factory, Data Flow Activities and PowerBI.
 
 # :exploding_head:  Problem Statement
 
 Company is losing its market share and revenue in the luxury/business hotels category. Due to strategic moves from other competitors and ineffective decision-making in management.
 
 The management wants to fix this issue, the managing director wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
+
+# 📚 Goal
+
+The goal of this project is to perform data analytics on data to incorporate “Business and Data Intelligence” to regain the market share and revenue using various tools and technologies, including Azure Blob Storage, Azure data lake Gen2,  Azure Data Factory, Data Flow Activities and PowerBI.
 
 # ✍️ Tasks
 
